@@ -1,6 +1,3 @@
-const greetings = name => {
-  console.log(`Hello ${name}`)
-}
-
-greetings('Raju')
-greetings('Abhi')
+console.log('hi')
+console.log('5')
+console.log('hi')
